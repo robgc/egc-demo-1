@@ -1,4 +1,5 @@
 Comandos de git utilizados:
+-------------------
 
 git init
 git status
