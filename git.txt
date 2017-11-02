@@ -8,3 +8,5 @@ git log
 git log --oneline
 git checkout -- README
 git commit -a
+git annotate <file>
+git show <commitId>
