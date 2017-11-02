@@ -11,3 +11,6 @@ git checkout -- README
 git commit -a
 git annotate <file>
 git show <commitId>
+git branch
+git checkout -b <branchName>
+git checkout <branchName>
