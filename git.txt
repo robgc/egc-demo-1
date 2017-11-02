@@ -13,3 +13,4 @@ git show <commitId>
 git branch
 git checkout -b <branchName>
 git checkout <branchName>
+git merge <branchName>
