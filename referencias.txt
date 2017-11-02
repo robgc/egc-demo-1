@@ -1,3 +1,4 @@
 Referencias:
 
 http://git-scm.org
+https://onlywei.github.io/explain-git-with-d3/#freeplay
