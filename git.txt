@@ -6,3 +6,5 @@ git add <file>
 git commit
 git log
 git log --oneline
+git checkout -- README
+git commit -a
